@@ -1,1 +1,2 @@
-0x00.shell basics
+Shell Basics
+Project tasks
